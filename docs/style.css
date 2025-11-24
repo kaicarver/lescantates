@@ -1,0 +1,245 @@
+:root {
+	overflow-y:scroll;
+}
+
+html, body {
+ margin: 0;
+ padding: 0;
+ }
+
+body
+{
+ 	font-family: Verdana, Arial, sans-serif; 
+ 	font-weight: normal; 
+ 	text-align: left;
+	font-size: 75%;
+	background: url(bkgContent2.gif) #e5e5e5 repeat-y center top;
+	/*background-repeat: repeat-y;
+	float: none;*/
+	position: relative;
+	background-attachment: scroll;
+	/*margin-top: 20px;
+	margin-bottom: 20px;
+	background-repeat: bottom left repeat-x;*/
+}
+
+.titreaccueil {
+	font: 5em "TradeGothic BoldTwo", "Lucida Grande", Geneva, Arial, Helvetica, sans-serif;
+	text-align: center;
+	background: fixed;
+	color:#00327e;
+}
+.titreaccueil2 {
+	font: 2em "TradeGothic BoldTwo", "Lucida Grande", Geneva, Arial, Helvetica, sans-serif;
+	text-align: center;
+	color:#00327e;
+}
+
+.titreaccueil3 {
+	font: 1.2em italic "TradeGothic BoldTwo", "Lucida Grande", Geneva, Arial, Helvetica, sans-serif;
+	text-align: center;
+	color:#00327e;
+}
+.titreaccueil4 {
+	font: 1em "TradeGothic BoldTwo", "Lucida Grande", Geneva, Arial, Helvetica, sans-serif;
+	text-align: center;
+	color:#00327e;
+	
+}
+.imageaccueil {
+	text-align: center;
+	border 1px inset color:#0a50ff;
+	}
+.colonne1 {font: 1.1em Verdana, Arial, Helvetica, sans-serif;
+	text-align: justify;
+}
+
+.colonne2 {
+	font: 1.1em Verdana, Arial, Helvetica, sans-serif;
+	text-align: justify;
+}
+
+.colonne3 {
+	font: 1.1em Verdana, Arial, Helvetica, sans-serif;
+	text-align: justify;
+}
+
+.tableausuite {
+	position: absolute;
+	width: 785px;
+	top: 100px;
+	margin: auto;
+	
+}
+.logo {
+	position:fixed;
+	
+}
+.cellulemenu
+{
+	/*position:fixed;*/
+	letter-spacing: 2px;
+	font: 400 1.3em  "TradeGothic BoldTwo", "Lucida Grande", Geneva, Arial, Helvetica, sans-serif;
+	height:35px;
+	text-align: center;
+}
+.cellulemenugauche {
+	letter-spacing: 1.0pt;
+	padding-left:4px;
+	/*border-radius: 5px 10px 0 5px;*/
+}
+
+.cellulemenugauche a:link {
+	text-decoration:none;
+	font: 1.1em "TradeGothic BoldTwo", "Lucida Grande";	
+	color:#565759;
+}
+.cellulemenugauche a:visited {color: #565759;}
+.cellulemenugauche a:hover {color: red;}
+
+.flechehaut  {
+	float:right; 
+	padding:20px;
+}
+.content  {
+	padding-left:6px; 
+	padding-right:6px;
+	text-align: justified;
+}
+a {
+	text-decoration:none;		
+}
+
+.integrale1 {
+	font: 1.2em "Gill Sans", "Comic Sans MS";
+	text-align: left;
+	padding:25px;
+	position: relative;
+	width: 726px;
+	margin: auto;
+}
+
+.integralepage {
+	left: 2.5em;
+	position: absolute;
+	font-family: "Gill Sans", "Comic Sans MS";
+}
+
+.integrale2 {
+	text-align: left;
+	text-decoration: underline;
+	margin-left: 50px;
+	font: italic 1.3em "Gill Sans", "Comic Sans MS";
+}
+
+
+.cantate {
+	border: #0b30ff 2px;
+	font: 1.1em "Gill Sans", "Comic Sans MS";
+	text-indent: 3pt;
+}
+
+a:link {color: #00327e;}
+a:visited {color: #00327e;}
+a:hover {color: red;}
+a:active {
+	color: #000;
+}
+	
+.annee {
+	
+	position: relative;
+	font: 1.4em "TradeGothic BoldTwo", "Lucida Grande", Geneva, Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+.liensaisons {
+	font: 1.4em "TradeGothic BoldTwo", "Lucida Grande", Geneva, Arial, Helvetica, sans-serif;
+	text-align: center;
+	
+}
+.mois {
+	font: bold 1.2em "TradeGothic BoldTwo", "Lucida Grande", Geneva, Arial, Helvetica, sans-serif;
+	text-align: left;
+	color: #00327e;
+}
+.date {
+	font: 0.8em "TradeGothic BoldTwo", "Lucida Grande", Geneva, Arial, Helvetica, sans-serif;
+	text-align: left;
+	color: #000000;
+}
+.bwv {
+	font: bold 1.2em "Gill Sans", "Comic Sans MS";
+	text-align: center;
+	color: #000000;
+}
+.titrecantate {
+	font: bold 1.2em "Gill Sans", "Comic Sans MS";
+	text-align: center;
+	color: #000000;
+}
+.formation {
+	font:  bold 1.1em "Gill Sans", "Comic Sans MS";
+	text-align: left;
+	color: #000000;
+}
+.musiciens {
+	font:  1.1em "Gill Sans", "Comic Sans MS";
+	text-align: left;
+	color: #000000;
+}
+.titreorgue {
+	font:  italic 1.1em "Gill Sans", "Comic Sans MS";
+	text-align: left;
+	color: #000000;
+}
+.pieceorgue {
+	font: bold italic 1.1em "Gill Sans", "Comic Sans MS";
+	text-align: left;
+	color: #000000;
+	font-style: normal;
+}
+.orgue1 {
+	font: 1.8em "Gill Sans", "Comic Sans MS";
+}
+
+.orgue2 {
+	font: 1.4em "Gill Sans", "Comic Sans MS";
+	text-decoration: underline;
+}
+
+.orgue3 {
+	font: 1.2em "Gill Sans", "Comic Sans MS";
+}
+
+.orgue4 {
+	font: 1.1em "Gill Sans", "Comic Sans MS";
+}
+
+.orguepage {
+	position: absolute;
+	left: 25px;
+}
+.cantate .date {
+	margin-left: 6px;
+	color:#00FF00
+}
+.cantate .titre {
+	margin-left: 30px;
+}
+.cantate .musiciens {
+	margin-left: 10px;
+}
+.cantate .orgue {
+	margin-left: 6px;
+	font-style: italic;
+}
+.Content .musiciens .pieceorgue a {
+	font-weight: normal;
+	color: #000000;
+}
+.Content .musiciens .pieceorgue {
+	font-weight: normal;
+}
+#italique {
+	font-style: italic;
+}
