@@ -63,7 +63,10 @@ $pages = array('accueil' => 'docs/accueil.php',
 			  'integrale22'=> 'docs/integrale22.php',
 			  'integrale23'=> 'docs/integrale23.php',
 			  'integrale24'=> 'docs/integrale24.php',
-			  'integrale25'=> 'docs/integrale25.php',);
+			  'integrale25'=> 'docs/integrale25.php',
+			  'integrale26'=> 'docs/integrale26.php',
+			  'integrale27'=> 'docs/integrale27.php',
+			);
 			
 if($_GET['page'] != NULL) $page = htmlentities($_GET['page'], ENT_QUOTES);
 else $page = "accueil";

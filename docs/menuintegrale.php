@@ -60,4 +60,11 @@
 2022-2023</a> </p>
 	<p><a href="index.php?page=integrale25">Vingt-cinquième<br />
 saison<br>
-2023-2024</a></p></div>
+2023-2024</a> </p>
+	<p><a href="index.php?page=integrale26">Vingt-sixième<br />
+saison<br>
+2024-2025</a> </p>
+	<p><a href="index.php?page=integrale27">Vingt-septième<br />
+saison<br>
+2025-2026</a> </p>
+</div>
