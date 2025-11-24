@@ -51,7 +51,7 @@ MM_reloadPage(true);
     </span> <span class="pieceorgue">Johann Ludwig Krebs : choral &ldquo;Herr Gott, dich loben alle wir &rdquo; <br>
     Improvisation de choral sur &ldquo;Herr Gott, dich loben alle wir &rdquo;<br>
   </span><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
-<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison 25/2310_130.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a>
+<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison26/2024_10.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a>
 </p>
 <hr noshade>
 <p class="mois"><a name="Novembre" id="Novembre"></a>NOVEMBRE<br>
@@ -77,7 +77,7 @@ MM_reloadPage(true);
   </span> <span class="pieceorgue">Prélude en sol majeur BWV 541 <br>
     Fantaisie en sol majeur BWV 572<br>
   </span><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
-<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison 25/79.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a> </p>
+<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison26/2024_11.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a> </p>
 <hr noshade="noshade" />
 <p class="mois"><a name="Decembre" id="Decembre"></a>DECEMBRE<br>
   <span class="date"> 03/12</span><span class="date">/2023</span>
@@ -106,7 +106,7 @@ MM_reloadPage(true);
   Choral &ldquo;<em>Nun komm&rsquo; der Heiden Heiland </em>&rdquo; BWV 599<br>
   Choral &ldquo;<em>Nun komm, der Heiden Heiland </em>&rdquo; BWV 659<br>
     </span><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
-<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison 25/36.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
+<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison26/2024_12.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
 <hr noshade="noshade" />
 <p class="mois"><a name="JANVIER" id="Janvier"></a>JANVIER<br>
   <span class="date"> 07/01</span><span class="date">/2024</span>
@@ -133,7 +133,7 @@ MM_reloadPage(true);
 <p align="center" class="pieceorgue"><br>
     <a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a>
 </p>
-<p class="pieceorgue">Programme du concert : <a href="../Presentations/saison 25/0124_136.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
+<p class="pieceorgue">Programme du concert : <a href="../Presentations/saison26/2025_01.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
 <hr noshade="noshade" />
 <p class="mois"><a name="Fevrier" id="Fevrier"></a>FEVRIER<br>
   <span class="date"> 04/02</span><span class="date">/2024</span>
@@ -157,7 +157,7 @@ MM_reloadPage(true);
   </span> <span class="pieceorgue"><span class="pieceorgue">Fantaisie en sol mineur BWV 542<br>
   Fuga super Meine Seele erhebet den Herrn BWV733</span><br>
     </span><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
-<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison 25/148.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
+<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison26/2025_02.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
 <hr noshade="noshade" />
 <p class="mois"><a name="Mars" id="Mars"></a>MARS<br>
   <span class="date"> 03/03</span><span class="date">/2024</span>
@@ -183,7 +183,7 @@ MM_reloadPage(true);
   Adagio BWV 564<br>
   Dietrich Buxtehude : Praeludium en do majeur BuxWV 137<br>
   </span><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
-<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison 25/mars24-59.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
+<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison26/2025_03.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
 <hr>
 <p class="mois"><a name="Avril" id="Avril"></a>AVRIL<br>
   <span class="date"> 07/04</span><span class="date">/2024</span>
@@ -215,7 +215,7 @@ MM_reloadPage(true);
   </span> <span class="pieceorgue">Prélude en sol majeur BWV 541<br>
   Fugue en sol majeur BWV 541<br>
   </span><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
-<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison 25/2404_249.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
+<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison26/2025_04.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
 <hr>
 <p class="mois"><a name="Mai" id="Mai"></a>MAI<br>
   <span class="date"> 05/05</span><span class="date">/2024</span>
@@ -245,7 +245,7 @@ MM_reloadPage(true);
   </span> <span class="pieceorgue">Adagio BWV 564 aux violon et pédalier<br>
   Prélude pour orgue en ré majeur BWV 874<br>
   </span><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
-<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison 25/120.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
+<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison26/2025_05.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
 <hr>
 <p class="mois"><a name="Juin" id="Juin"></a>JUIN<br>
   <span class="date"> 02/06</span><span class="date">/2024</span>
@@ -277,6 +277,6 @@ J.S.Bach Cantate BWV 129 <br>
   Johann Ludwig Krebs (1713-1780) Choral “O Gott, du frommer Gott” <br>
   J.S. Bach “Meine Seele erhebt den Herren” (fuga sopra Magnificat pro organo pleno) BWV 733</span><br>
   </span><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
-<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison 25/Juin24.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
+<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison26/2025_06.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
 <hr>
 </div>
