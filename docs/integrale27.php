@@ -40,7 +40,7 @@ MM_reloadPage(true);
 </p>
 <hr noshade>
 <p class="mois"><a name="Novembre" id="Novembre"></a>NOVEMBRE<br>
-  <span class="date"> 00/11</span><span class="date">/2025</span>
+  <span class="date"> 02/11</span><span class="date">/2025</span>
 <p align="center" class="bwv">BWV 188<br>
   Ich habe meine Zuversicht</p>
 <p class="musiciens">&nbsp;</p>
