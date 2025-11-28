@@ -21,62 +21,33 @@ MM_reloadPage(true);
   <a name="HautPage"></a>
   <p class="annee">Vingt-septième saison 2025-2026</p>
   <img src="../Images/Tribune_614.jpg" width="614" height="176">
-  <p class="liensaisons"><a href="#Octobre">Octobre</a>&nbsp;&nbsp;<a href="#Novembre">Novembre</a>&nbsp;&nbsp;<a href="#Decembre">D&eacute;cembre</a>&nbsp;&nbsp;<a href="#Janvier">Janvier</a>&nbsp;&nbsp;<a href="#Fevrier">F&eacute;vrier</a>&nbsp;&nbsp;<a href="#Mars">Mars</a>&nbsp;&nbsp;<a href="#Avril">Avril</a>&nbsp;&nbsp;<a href="#Mai">Mai</a>&nbsp;&nbsp;<a href="#Juin">Juin</a> </p>
+  <p class="liensaisons"><a href="#Octobre">Octobre</a>&nbsp;&nbsp;<a href="#Novembre">Novembre</a> </p>
   <hr noshade>
   <p class="mois"><a name="Octobre" id="Octobre"></a>OCTOBRE<br>
-  <span class="date"> 01/10</span><span class="date">/2023</span>  
-  <p align="center" class="bwv">BWV 130<br>
-  Herr Gott, dich loben alle wir </p>
+  <span class="date"> 05/10</span><span class="date">/2025</span>  
+  <p align="center" class="bwv">Christian Geist<br>
+  Quis hostis in coelis</p>
 <p class="musiciens">&nbsp;</p>
-<p class="musiciens">Hanna Aïlane, Catherine Jousselin sopranos<br>
-  Jérémy Ankilbeau, Akiko Matsuo, Charlotte Berthier altos<br>
-  Bruno Boterf, David Suzanne, Stanislas Herbin ténors<br>
-  Jean-François Gay, Jérôme Henin basses<br>
+<p class="musiciens"><br>
   <br>
-  Serge Tizac, Jean Bollinger, Jean-Baptiste Lapierre trompettes <br>
-  Françoise Rivalland timbales <br>
-  Amadeo Castille, Stéphane Goyeau, Cécile Chartrain hautbois<br>
-  Valérie Balssa traverso <br>
-  Bernadette Charbonnier, Ruth Weber*, Cibeles Bullon Muñoz, <br>
-  Andrée Mitermite*, Emmanuelle Dauvin violons <br>
-  Céline Cavagnac, Anne Weber altos<br>
-  Susan Edward, Jean-Baptiste Dusson violoncelles  <br>
-  Louise Lapierre basson <br>
-  Philippe Ramin clavecin<br>
-  François Saint-Yves orgue<br>
-  Sylvain Tardivo, Valdo Tatischeff souffleurs</p>
+ </p>
 <p class="musiciens"><br>
   *coordination artistique</p>
 <p class="musiciens"><span class="titreorgue">Pi&egrave;ces d'orgue:<br>
-    </span> <span class="pieceorgue">Johann Ludwig Krebs : choral &ldquo;Herr Gott, dich loben alle wir &rdquo; <br>
-    Improvisation de choral sur &ldquo;Herr Gott, dich loben alle wir &rdquo;<br>
+    </span> <span class="pieceorgue"><br>
   </span><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
 <p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison27/2025_10.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a>
 </p>
 <hr noshade>
 <p class="mois"><a name="Novembre" id="Novembre"></a>NOVEMBRE<br>
-  <span class="date"> 05/11</span><span class="date">/2023</span>
-<p align="center" class="bwv">BWV 79<br>
-  Gott der Herr ist Sonne und Schild</p>
+  <span class="date"> 00/11</span><span class="date">/2025</span>
+<p align="center" class="bwv">BWV 188<br>
+  Ich habe meine Zuversicht</p>
 <p class="musiciens">&nbsp;</p>
-<p class="musiciens">Kyungna Ko*, Esther Gutbub, Elisabeth Houpert sopranos<br>
-  Ayako Yukawa*, Akiko Matsuo, Catherine Jousselin altos<br>
-  José Loyola, Noé Rollet ténors<br>
-  Olivier Gourdy*, Paul Willenbrock, Hervé Hadrien Oléon basses</p>
-<p class="musiciens">Lionel Renoux, Kurumi Kudo cors <br>
-  Michèle Claude timbales<br>
-  Timothée Oudinot, Amadeo Castille hautbois<br>
-  Laura Alexander, Jin Kim, Hélène Lacroix, Juhyun Lee, <br>
-  Guya Martinini, Armand Thomas violons <br>
-  Michel Renard, Camille Rancière, Jasper Snow altos<br>
-  Alix Verzier violoncelle <br>
-  Hugo Abraham contrebasse<br>
-  Frédéric Rivoal orgue et coordination artistique</p>
-<p class="musiciens">(* solistes)</p>
-<p class="musiciens"><span class="titreorgue">Pi&egrave;ces d'orgue:<br>
-  </span> <span class="pieceorgue">Prélude en sol majeur BWV 541 <br>
-    Fantaisie en sol majeur BWV 572<br>
-  </span><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
+<p class="musiciens"></p>
+<p class="musiciens"></p>
+<p class="musiciens">*coordination artistique</p>
+<p class="musiciens"><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
 <p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison27/2025_11.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a> </p>
 <hr noshade="noshade" />
 <hr>
