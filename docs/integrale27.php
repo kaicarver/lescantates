@@ -90,9 +90,9 @@ MM_reloadPage(true);
 <hr noshade="noshade" />
 
 <p class="mois"><a name="Decembre" id="Decembre"></a>DECEMBRE<br>
-  <span class="date"> 01/12</span><span class="date">/2024</span>
+  <span class="date"> 07/12</span><span class="date">/2025</span>
 <p align="center" class="bwv">Christoph Graupner GWV 1101/12<br>
-  Wache auf meine Ehre</p>
+  Wache auf, meine Ehre</p>
 <p class="musiciens">
 Karine Serafin*, Hanna Alane, sopranes<br>
 Catherine Joussellin, Adam Harrata, altos<br>
@@ -103,7 +103,7 @@ Jean-François Gay*, Raphaël Bleibtreu, Paul Willenbrock, basses
 Joseba Berrocal, Amadeo Castille, hautbois
 </p>
 <p class="musiciens">
-Ruth Weber**,Sandrine Dupé,
+Ruth Weber**, Sandrine Dupé,
 Guya Martinini, Freddy Eichelberger, violons<br>
 Aik Shin Tan, Anne Solano, altos<br>
 Claire Giardelli, violoncelle<br>
