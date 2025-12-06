@@ -108,36 +108,36 @@ MM_reloadPage(true);
   BWV 190<br>
   Singet dem Herrn ein neues Lied
 </p>
-<p> <span class="musiciens">
+<p class="musiciens">
  Hanna Aïlane, Karine Sérafin, Joséphine Solus, Madeleine Treilloux, sopranos
  Marine Fribourg*, Catherine Jousselin, Akiko Matsuo, altos
  Vincent Lièvre-Picard*, Matthieu Benoît, Julien Voyé, ténors
  Olivier Bizot*, Pierre Agut, Jérôme Hénin, basses
 </p>
-<p> <span class="musiciens">
+<p class="musiciens">
  Patrick Oliva, Bernadette Charbonnier, Mario Konaka, Armand Thomas, violons 1
  Sandrine Dupe, Gildas Guillon, Naïa Ishii, Cibeles Bullón Muñoz, violons 2
  Guya Martinini, Ruth Weber, altos
  Cyril Poulet*, Norbert Zauberman, violoncelles
 </p>
-<p> <span class="musiciens">
+<p class="musiciens">
  Yasu Moisio, Amadeo Castille, Shunsuke Kawai, hautbois
  Yasu Moisio*, hautbois d’amour
  Sébastien Marq, flûte à bec
  Joël Lahens, Gilles Rapin, Gilles Mercier, trompettes
  Michèle Claude, timbales
 </p>
-<p> <span class="musiciens">
+<p class="musiciens">
  Elisabeth Joyé, clavecin
  Kamran Mercier, orgue
 </p>
-<p> <span class="musiciens">
+<p class="musiciens">
  Marine Fribourg, Elisabeth Joyé, coordination
 </p>
-<p> <span class="musiciens">
+<p class="musiciens">
  Julia Baumier, Chloé Thomas, souffleuses
 </p>
-<p> <span class="musiciens">
+<p class="musiciens">
 * soliste
 </p>
 <p class="pieceorgue">Programme du concert : <a href="../Presentations/saison26/2025_01.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
@@ -215,9 +215,39 @@ Gottes Zeit ist die allerbeste Zeit
 <p class="mois"><a name="Avril" id="Avril"></a>AVRIL<br>
   <span class="date"> 06/04</span><span class="date">/2025</span>
 <p align="center" class="bwv">
-  Oeuvres de Buxtehude, Tunder, Schütz, ...
-<p><span class="musiciens">
-  &nbsp;
+ Heinrich SCHÜTZ<br>
+ SWV 471<br>
+ O bone Jesu, fili Mariae<br>
+ Heinrich SCHÜTZ<br>
+ SWV 495<br>
+ Unser Herr Jesus Christus a8<br> 
+ Franz TUNDER<br>
+ An Wasserflüssen Babylon<br>
+ Dieterich BUXTEHUDE<br>
+ BuxWV 75<br>
+ Membra Jesu Nostri<br>
+</p>
+ <p><span class="musiciens">
+ Ensemble WILHELM VOGEL
+</p>
+<p class="musiciens">
+ Raphaële KENNEDY*, Karine SERAFIN*, Sophie DECAUDAVEINE, Catherine JOUSSELLIN, soprani<br>
+ Marine FRIBOURG*, Léa COLMET-DAÂGE, alti<br>
+ Bruno BOTERF*, Vincent BOUCHOT*, Stanislas HERBIN, ténors<br>
+ Philippe ROCHE*, Jean-François GAY*, Paul WILLENBROCK*, basses
+</p>
+<p class="musiciens">
+ Emmanuelle DAUVIN, Paulo CASTRILLO, violons<br>
+ Marianne MULLER, Matteo DI CAPUA, Théo MAZURIE, Géraldine PALMA, Lukas SCHNEIDER, violes<br>
+</p>
+<p class="musiciens">
+ Alexandre SALLES, basson<br>
+ Elias LEYMARIE, théorbe<br>
+ Elisabeth GEIGER, clavecin<br>
+ Yannick VARLET, orgue
+</p>
+<p class="musiciens">
+ Graham O’REILLY, direction
 </p>
 <p class="musiciens"><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
 <p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison26/2025_04.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
@@ -231,7 +261,30 @@ Gottes Zeit ist die allerbeste Zeit
   Du aber, Daniel, gehe hin
 </p>
 <p class="musiciens">
-  &nbsp;
+ Myriam Arbouz*, Susanne Serfling, sopranos<br>
+ Catherine Joussellin, Akiko Matsuo, altos<br>
+ Martin Zimmer, Colin Isoir, ténors<br>
+ Maxime Saïu*, Camille Rancière**, Galel Sánchez, basses
+</p>
+<p class="musiciens">
+ Quentin Fondecave, flûte à bec<br>
+ Thomas Letellier, hautbois<br>
+ Louise Lapierre, basson
+</p>
+<p class="musiciens">
+ Cibeles Bullón**, Ruth Weber, violons<br>
+ Camille Rancière**, alto<br>
+ Jean-Baptiste Dusson, violoncelle<br>
+ Claire Gautrot, Jerôme Hantaï, violes de gambe<br>
+ Adrien Alix, contrebasse
+</p>
+<p class="musiciens">
+ Clémence Schweyer, clavecin<br>
+ Jürgen Banholzer, orgue
+</p>
+<p class="musiciens">
+ * solistes<br>
+ ** coordination artistique
 </p>
 <p class="musiciens"><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
 <p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison26/2025_05.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
@@ -244,7 +297,25 @@ Gottes Zeit ist die allerbeste Zeit
   Schweigt stille, plaudert nicht
 </p>
 <p class="musiciens">
-  &nbsp;
+ Karine Serafin, soprane “Liesgen”<br>
+ Vincent Bouchot, ténor “narrateur”<br>
+ Thomas van Essen, basse “Schlendrian”
+</p>
+<p class="musiciens">
+ Valérie Balssa, flûte traversière
+</p>
+<p class="musiciens">
+ Ruth Weber*, Laura Alexander, violons<br>
+ Anne Weber, alto<br>
+ Claire Giardelli, violoncelle<br>
+ Valérie Bienvenu, contrebasse
+</p>
+<p class="musiciens">
+ Maïna Guillamet, clavecin<br>
+ Jonathan Kreuder, orgue
+</p>
+<p class="musiciens">
+ * coordination artistique
 </p>
 <p class="musiciens"><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
 <p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison26/2025_06.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
