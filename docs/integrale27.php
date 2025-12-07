@@ -111,7 +111,7 @@ Valérie Bienvenu, contrebasse<br>
 </p>
 <p class="musiciens">
 Maïna Guillamet, clavecin<br>
-Alonso Torres orgue
+Afonso Torres, orgue
 </p>
 <p class="musiciens">
 Sébastien Cadet, NN, souffleurs
