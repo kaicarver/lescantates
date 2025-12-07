@@ -10,11 +10,11 @@
   <div>
     <div class="mois">
       <p><strong><em>Prochaine cantate<br>
-        </em>Dimanche 7 décembre 2025 à 17h30<br>
+        </em>Dimanche 4 janvier 2026 à 17h30<br>
       </strong></p>
-      <div>"Wache auf meine Ehre" de Christoph Graupner</div>
+      <div>"Wie schön leuchtet der Morgenstern" de Johann Kuhnau</div>
       <div>&nbsp;</div>
-      <div>coordination artistique Ruth Weber</div>
+      <div>coordination : Elisabeth Joyé et Thomas van Essen</div>
     </div></div><p class="mois">&nbsp;</p>
   
 <p align="center"><strong><br>
