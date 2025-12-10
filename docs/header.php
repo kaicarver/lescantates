@@ -4,8 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="stylesheet" type="text/css" href="docs/style.css" />
 <title>
-	Les Cantates 
-	<?php if ($_GET['page'] != NULL AND $_GET['page'] != "accueil" ) { echo " - ", $_GET['page']; } ?>
+	Les Cantates <?php if ($_GET['page'] != NULL AND $_GET['page'] != "accueil" AND $_GET['page'] != "suite" ) { echo " - ", $_GET['page']; } ?>
 </title>
 
 <style type="text/css">
