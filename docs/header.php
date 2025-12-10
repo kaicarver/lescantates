@@ -13,7 +13,7 @@ img { vertical-align:middle; border:0px }
 </style>
 </head>
 <body>
-
+<div id="Layer1" style="width: 785px; margin-left: auto; margin-right: auto;">
 <?php
 
 if($_GET['page'] != NULL AND $_GET['page']!= "accueil" )
@@ -29,5 +29,3 @@ echo <<<EOF
 EOF;
 }
 ?>
-
-</body>
