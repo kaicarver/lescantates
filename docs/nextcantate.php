@@ -10,11 +10,11 @@
   <div>
     <div class="mois">
       <p><strong><em>Prochaine cantate<br>
-        </em>Dimanche 4 janvier 2026 à 17h30<br>
+        </em>Dimanche 1er février 2026 à 17h30<br>
       </strong></p>
-      <div>"Wie schön leuchtet der Morgenstern" de Johann Kuhnau</div>
+      <div>BWV 82 Ich habe genug</div>
       <div>&nbsp;</div>
-      <div>coordination : Elisabeth Joyé et Thomas van Essen</div>
+      <div>coordination : Frédéric Rivoal</div>
     </div></div><p class="mois">&nbsp;</p>
   
 <p align="center"><strong><br>
