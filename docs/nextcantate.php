@@ -9,13 +9,22 @@
   <p class="mois">&nbsp;</p>
   <div>
     <div class="mois">
-      <p><strong><em>Prochaine cantate<br>
-        </em>Dimanche 1er février 2026 à 17h30<br>
-      </strong></p>
-      <div>BWV 82 Ich habe genug</div>
+      <p>
+	<strong>
+	  <em>Prochaine cantate</em><br>
+	  Dimanche 5 avril 2026 à 17h30
+        </strong>
+      </p>
+      <div>
+	BWV 4 Christ lag in Todesbanden
+      </div>
       <div>&nbsp;</div>
-      <div>coordination : Frédéric Rivoal</div>
-    </div></div><p class="mois">&nbsp;</p>
+      <div>
+        coordination : Cibeles Bullón
+      </div>
+    </div>
+  </div>
+  <p class="mois">&nbsp;</p>
   
 <p align="center"><strong><br>
       Temple du Foyer de l'&Acirc;me <br>
