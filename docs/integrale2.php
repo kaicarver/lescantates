@@ -20,7 +20,7 @@ MM_reloadPage(true);
 	border: 1px none #000000;">
   
   <a name="HautPage"></a>
-  <p class="annee">Deuxième saison 2000-2001</p>
+  <p class="annee">DeuxiÃ¨me saison 2000-2001</p>
  <img src="../Images/Tribune_614.jpg" width="614" height="176">
   <p class="liensaisons"><a href="#Octobre">Octobre</a>&nbsp;&nbsp;<a href="#Novembre">Novembre</a>&nbsp;&nbsp;<a href="#Decembre">D&eacute;cembre</a>&nbsp;&nbsp;<a href="#Janvier">Janvier</a>&nbsp;&nbsp;<a href="#Fevrier">F&eacute;vrier</a>&nbsp;&nbsp;<a href="#Mars">Mars</a>&nbsp;&nbsp;<a href="#Avril">Avril</a>&nbsp;&nbsp;<a href="#Mai">Mai</a>&nbsp;&nbsp;<a href="#Juin">Juin</a> </p>
   <hr noshade>
