@@ -133,7 +133,28 @@ Sébastien Cadet, NN, souffleurs
   Wie schön leuchtet der Morgenstern
 </p>
 <p class="musiciens">
-&nbsp;
+Sophie Landy*, Karine Serafin*, Madeleine Treilhou, sopranos<br>
+Raphaël Mas*, Catherine Joussellin, altos<br>
+Vincent Lièvre-Picard*, Marcio Soares Holanda, ténors<br>
+Thomas Van Essen*, Pierre Agut, basses
+</p>
+<p class="musiciens">
+Alessandro Orlando, Hippolyte de Villèle, cors<br>
+Pierre Hamon, Sébastien Marq, flûtes à bec<br>
+Liv Heim, Anton Hanson, violons<br>
+Guya Martinini, Cibeles Bullón Muñoz, altos<br>
+Christophe Coin, violoncelle
+</p>
+<p class="musiciens">
+Benjamin Alard*, orgue<br>
+Elisabeth Joyé**, clavecin
+</p>
+<p class="musiciens">
+Charlotte Forget, Hélène Forget, souffleuses
+</p>
+<p class="musiciens">
+* soliste<br>
+** coordination artistique
 </p>
 <p class="musiciens"><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
 <p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison27/2026_01.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
@@ -146,7 +167,17 @@ Sébastien Cadet, NN, souffleurs
   Ich habe genug
 </p>
 <p class="musiciens">
-&nbsp;
+Maxime Saïu, basse
+</p>
+<p class="musiciens">
+Shunsuke Kawai, hautbois<br>
+Minori Deguchi, Cécile Caup, Diana Lee, Juhyun Lee, <br>
+Enesh Zhanykova, Christophe Mourault, violons<br>
+Cibeles Bullón Muñoz, Alexandre Garnier, altos<br>
+Alix Verzier, violoncelle
+</p>
+<p class="musiciens">
+Frédéric Rivoal, orgue et coordination
 </p>
 <p class="musiciens"><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
 <p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison27/2026_02.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
@@ -159,7 +190,26 @@ Sébastien Cadet, NN, souffleurs
   Laß, Fürstin, laß noch einen Strahl
 </p>
 <p class="musiciens">
-&nbsp;
+Barbara Kusa & Agathe Petitjean, soprani<br>
+Anne-Lou Bissières & Gabriel Saro, alti<br>
+Vincent Lièvre-Picard* & Théo Jugie, tenori<br>
+Philippe Roche & Achille Roberfroid, bassi
+</p>
+<p class="musiciens">
+Benjamin Gaspon & Boris Kapfer, traverso<br>
+Nathalie Petibon & Benoît Toïgo, hautbois d'amour<br>
+Ugo Gianotti & Liv Heym, violons<br>
+Myriam Cambreling, alto<br>
+Julie Dessaint & Ondine Lacorne-Hébrard, violes<br>
+Rémi Cassaigne & Diego Salamanca, luths<br>
+Vérène Westphal, violoncelle
+</p>
+<p class="musiciens">
+Aline Zylberajch-Gester, clavecin<br>
+François Ménissier, orgue
+</p>
+<p class="musiciens">
+* coordination
 </p>
 <p class="musiciens"><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
 <p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison27/2026_03.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
