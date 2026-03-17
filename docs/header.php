@@ -22,7 +22,7 @@ echo <<<EOF
 <br />
 <div class="cellulemenu"><a href="index.php?page=nextcantate">La prochaine cantate&nbsp;</a> 
 <a href="index.php?page=integrale27#Avril">Les cantates en cours&nbsp;</a>
-<a href="index.php?page=accueilorgue">Le nouvel orgue&nbsp;</a>
+<a href="index.php?page=orgue1">Le nouvel orgue&nbsp;</a>
 <a href="index.php?page=contacts">Contact|Liens&nbsp;</a>
 </div>
 EOF;

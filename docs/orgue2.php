@@ -19,7 +19,7 @@ MM_reloadPage(true);
 	padding-left:6px;
 	padding-right:6px;
 	border: 1px none #000000;">
-  <p align="center" class="orgue2" id="conception">La conception du nouve orgue</p>
+  <p align="center" class="orgue2" id="conception">La conception du nouvel orgue</p>
   <p align="left">Financ&eacute; &agrave; l&#8217;&eacute;poque
     par un m&eacute;c&egrave;ne, Madame Charles Goguel (derri&egrave;re ce nom
     marital se cache le doux patronyme d'Hortense Calame), l&#8217;orgue fut
