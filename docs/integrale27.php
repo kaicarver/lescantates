@@ -21,7 +21,7 @@ MM_reloadPage(true);
   <a name="HautPage"></a>
   <p class="annee">Vingt-septième saison 2025-2026</p>
   <img src="../Images/Tribune_614.jpg" width="614" height="176">
-  <p class="liensaisons"><a href="#Octobre">Octobre</a>&nbsp;&nbsp;<a href="#Novembre">Novembre</a>&nbsp;&nbsp;<a href="#Decembre">Décembre</a>&nbsp;&nbsp;<a href="#Janvier">Janvier</a>&nbsp;&nbsp;<a href="#Fevrier">F&eacute;vrier</a>&nbsp;&nbsp;<a href="#Mars">Mars</a>&nbsp;&nbsp;<a href="#Avril">Avril</a><!--&nbsp;&nbsp;<a href="#Mai">Mai</a>&nbsp;&nbsp;<a href="#Juin">Juin</a>--></p>
+  <p class="liensaisons"><a href="#Octobre">Octobre</a>&nbsp;&nbsp;<a href="#Novembre">Novembre</a>&nbsp;&nbsp;<a href="#Decembre">Décembre</a>&nbsp;&nbsp;<a href="#Janvier">Janvier</a>&nbsp;&nbsp;<a href="#Fevrier">F&eacute;vrier</a>&nbsp;&nbsp;<a href="#Mars">Mars</a>&nbsp;&nbsp;<a href="#Avril">Avril</a>&nbsp;&nbsp;<a href="#Mai">Mai</a><!--&nbsp;&nbsp;<a href="#Juin">Juin</a>--></p>
   <hr noshade>
 
 <p class="mois"><a name="Octobre" id="Octobre"></a>OCTOBRE<br>
@@ -222,11 +222,48 @@ François Ménissier, orgue
   Christ lag in Todesbanden
 </p>
 <p class="musiciens">
-&nbsp;
+Karine Serafin*, Madeleine Treilhou, Catherine Joussellin, sopranos<br>
+Claire Bournez*, Clémence Cauquy, Akiko Matsuo, altos<br>
+Colin Isoir*, Louis Anderson, NN, ténors<br>
+Philippe Roche*, Cyprien Gaborieau, NN, basses
+</p>
+<p class="musiciens">
+Eva Godard, cornet à bouquin<br>
+Nino Rossini, Jules Rables, Tristan Aguerre, sacqueboutes<br>
+François Fernandez, Minori Deguchi, Tatsuya Hatano,<br>
+Paulo Castrillo, Enesh Dzhanykova, Cibeles Bullón**, violons<br>
+Ruth Weber, Youn-Young Kim, altos<br>
+Yun Kim, Camille Rancière, ténors<br>
+Paul Poupinet, violoncelle<br>
+Michel Frechina, contrebasse
+</p>
+<p class="musiciens">
+Elisabeth Joyé, clavecin<br>
+Kamran Mercier, orgue
+</p>
+<p class="musiciens">
+Freddy Eichelberger, NN, souffleurs
+</p>
+<p class="musiciens">
+* soliste<br>
+** coordination artistique
+</p>
+<p class="musiciens"><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
+<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison27/2026_04.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
+<hr noshade="noshade" />
+
+<p class="mois"><a name="Mai" id="Mai"></a>MAI<br>
+  <span class="date"> 03/05</span><span class="date">/2026</span>
+<p align="center" class="bwv">
+  BWV 103<br>
+  Du Hirte Israel, höre
+</p>
+<p class="musiciens">
+Coordination: Elisabeth Joyé et Sébastien Marq
 </p>
 <p class="musiciens"><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
 <!--
-<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison27/2026_03.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
+<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison27/2026_05.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
 -->
 <hr noshade="noshade" />
 
