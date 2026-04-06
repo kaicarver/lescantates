@@ -12,15 +12,15 @@
       <p>
 	<strong>
 	  <em>Prochaine cantate</em><br>
-	  Dimanche 5 avril 2026 à 17h30
+	  Dimanche 3 mai 2026 à 17h30
         </strong>
       </p>
       <div>
-	BWV 4 Christ lag in Todesbanden
+	BWV 103 Du Hirte Israel, höre
       </div>
       <div>&nbsp;</div>
       <div>
-        coordination : Cibeles Bullón
+        coordination : Elisabeth Joyé et Sébastien Marq
       </div>
     </div>
   </div>
