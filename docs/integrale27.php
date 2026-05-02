@@ -255,7 +255,7 @@ Freddy Eichelberger, NN, souffleurs
 <p class="mois"><a name="Mai" id="Mai"></a>MAI<br>
   <span class="date"> 03/05</span><span class="date">/2026</span>
 <p align="center" class="bwv">
-  BWV 103<br>
+  Cantate BWV 103<br>
   Ihr werdet weinen und heulen<br>
   BWV 528<br>
   Sonate en trio pour Flûte et Orgue
