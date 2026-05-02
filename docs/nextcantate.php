@@ -16,7 +16,8 @@
         </strong>
       </p>
       <div>
-	BWV 103 Du Hirte Israel, höre
+	BWV 103 Ihr werdet weinen und heulen<br>
+	BWV 528 Sonate en trio pour Flûte et Orgue
       </div>
       <div>&nbsp;</div>
       <div>

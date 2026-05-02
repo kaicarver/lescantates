@@ -256,14 +256,46 @@ Freddy Eichelberger, NN, souffleurs
   <span class="date"> 03/05</span><span class="date">/2026</span>
 <p align="center" class="bwv">
   BWV 103<br>
-  Du Hirte Israel, höre
+  Ihr werdet weinen und heulen<br>
+  BWV 528<br>
+  Sonate en trio pour Flûte et Orgue
 </p>
 <p class="musiciens">
-Coordination: Elisabeth Joyé et Sébastien Marq
+Hanna Aïlane, Karine Sérafin, Madeleine Treilhou, sopranos<br>
+Marine Fribourg*, Catherine Joussellin, Joseph Ben Zakoun, altos<br>
+Léo Guillou-Keredan*, Vincent Bouchot, Damien Jacobée, ténors<br>
+Pierre de Bucy*, Louis Geoffroy, Hippolyte de Villèle, basses<br>
+</p>
+<p class="musiciens">
+Jean-François Madeuf, trompette<br>
+Sébastien Marq**, flûtes à bec<br>
+Nathalie Petibon, Amadeo Castille, hautbois d’amour<br>
+Sandrine Dupé, Anne Pekkala, Jin Kim, Guya Martinini, Cibeles Bullón, violons<br>
+Maialen Loth, alto<br>
+Elena Andreyev, violoncelle<br>
+François Guerrier, clavecin<br>
+Elisabeth Joyé**, orgue<br>
+</p>
+<p class="musiciens">
+* soliste<br>
+** coordination artistique
+</p>
+<p class="musiciens"><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
+<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison27/2026_05.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
+<hr noshade="noshade" />
+
+<p class="mois"><a name="Juin" id="Juin"></a>JUIN<br>
+  <span class="date"> 07/06</span><span class="date">/2026</span>
+<p align="center" class="bwv">
+  BWV 39<br>
+  Brich dem Hungrigen dein Brot
+</p>
+<p class="musiciens">
+Coordination: Marine Fribourg
 </p>
 <p class="musiciens"><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
 <!--
-<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison27/2026_05.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
+<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison27/2026_06.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
 -->
 <hr noshade="noshade" />
 
