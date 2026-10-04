@@ -12,20 +12,20 @@
       <p>
 	<strong>
 	  <em>Prochaine cantate</em><br>
-	  Dimanche 7 juin 2026 à 17h30
+	  Dimanche 4 octobre 2026 à 17h30
         </strong>
       </p>
       <div>
-        BWV 39 <em>Brich dem Hungrigen dein Brot</em>
+        Oeuvres pour St Michel de J. S. Bach, N. Bruhns et H. Praetorius
       </div>
       <div>&nbsp;</div>
       <div>
-        Coordination : Marine Fribourg
+        Coordination : Graham O’Reilly
       </div>
     </div>
   </div>
   <p>
-    <a href="https://fr.wikipedia.org/wiki/Brich_dem_Hungrigen_dein_Brot" target="_blank">https://fr.wikipedia.org/wiki/Brich_dem_Hungrigen_dein_Brot</a>
+    &nbsp;
   </p>
   <p class="mois">&nbsp;</p>
   
