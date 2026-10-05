@@ -21,7 +21,7 @@ MM_reloadPage(true);
   <a name="HautPage"></a>
   <p class="annee">Vingt-septième saison 2025-2026</p>
   <img src="../Images/Tribune_614.jpg" width="614" height="176">
-  <p class="liensaisons"><a href="#Octobre">Octobre</a>&nbsp;&nbsp;<a href="#Novembre">Novembre</a>&nbsp;&nbsp;<a href="#Decembre">Décembre</a>&nbsp;&nbsp;<a href="#Janvier">Janvier</a>&nbsp;&nbsp;<a href="#Fevrier">F&eacute;vrier</a>&nbsp;&nbsp;<a href="#Mars">Mars</a>&nbsp;&nbsp;<a href="#Avril">Avril</a>&nbsp;&nbsp;<a href="#Mai">Mai</a><!--&nbsp;&nbsp;<a href="#Juin">Juin</a>--></p>
+  <p class="liensaisons"><a href="#Octobre">Octobre</a>&nbsp;&nbsp;<a href="#Novembre">Novembre</a>&nbsp;&nbsp;<a href="#Decembre">Décembre</a>&nbsp;&nbsp;<a href="#Janvier">Janvier</a>&nbsp;&nbsp;<a href="#Fevrier">F&eacute;vrier</a>&nbsp;&nbsp;<a href="#Mars">Mars</a>&nbsp;&nbsp;<a href="#Avril">Avril</a>&nbsp;&nbsp;<a href="#Mai">Mai</a>&nbsp;&nbsp;<a href="#Juin">Juin</a></p>
   <hr noshade>
 
 <p class="mois"><a name="Octobre" id="Octobre"></a>OCTOBRE<br>

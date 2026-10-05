@@ -43,6 +43,7 @@ $pages = array('accueil' => 'docs/accueil.php',
 			  'integrale25'=> 'docs/integrale25.php',
 			  'integrale26'=> 'docs/integrale26.php',
 			  'integrale27'=> 'docs/integrale27.php',
+			  'integrale28'=> 'docs/integrale28.php',
 			);
 			
 if($_GET['page'] != NULL) $page = htmlentities($_GET['page'], ENT_QUOTES);

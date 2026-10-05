@@ -12,15 +12,15 @@
       <p>
 	<strong>
 	  <em>Prochaine cantate</em><br>
-	  Dimanche 4 octobre 2026 à 17h30
+	  Dimanche 1 novembre 2026 à 17h30
         </strong>
       </p>
       <div>
-        Oeuvres pour St Michel de J. S. Bach, N. Bruhns et H. Praetorius
+	&nbsp;
       </div>
       <div>&nbsp;</div>
       <div>
-        Coordination : Graham O’Reilly
+        Coordination : Frédéric Rivoal
       </div>
     </div>
   </div>
