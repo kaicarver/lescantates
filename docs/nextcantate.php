@@ -16,7 +16,10 @@
         </strong>
       </p>
       <div>
-	&nbsp;
+	J. S. Bach:
+	<a href="https://fr.wikipedia.org/wiki/Liebster_Gott,_wenn_werd_ich_sterben%3F">
+	Cantate BWV 8 « Liebster Gott, wenn werd ich sterben? »
+	</a>
       </div>
       <div>&nbsp;</div>
       <div>
