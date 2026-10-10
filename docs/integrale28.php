@@ -39,7 +39,8 @@ Coordination: Graham O’Reilly
 <p class="mois"><a name="Novembre" id="Novembre"></a>NOVEMBRE<br>
   <span class="date"> 01/11</span><span class="date">/2026</span>
 <p align="center" class="bwv">
-  &nbsp;
+  BWV 8<br>
+  Liebster Gott, wenn werd ich sterben?
 </p>
 <p class="musiciens">
 Coordination: Frédéric Rivoal
