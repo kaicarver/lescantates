@@ -30,7 +30,33 @@ MM_reloadPage(true);
   Oeuvres pour St Michel de J. S. Bach, N. Bruhns et H. Praetorius
 </p>
 <p class="musiciens">
-Coordination: Graham O’Reilly
+Madeleine Treilhou*, Cécile Cote, Sophie Decaudaveine, Aude Glatard, soprani<br>
+Jennifer Gleinig*, Brigitte Vinson, Catherine Joussellin, alti<br>
+Benoît Porcherot*, Vincent Bouchot, Stanislas Herbin, Sylvain Lamesch, ténors<br>
+Jean-Louis Serre*, Jean-François Gay, Paul Willenbrock, Gilles Grimaldi, bassi<br>
+</p>
+<p class="musiciens">
+Cibeles Bullón, Claire Jolivet, Alexandre Garnier, Enesh Dzhanykova, violons<br>
+Ruth Weber, Louise Béguin, altos<br>
+Magali Boyer, Norbert Zauberman, violoncelles<br>
+Valérie Bienvenu, contrebasse<br>
+</p>
+<p class="musiciens">
+Thimothée Oudinot, Mariko Ninomiya, Hyong-Song Dupuis, hautbois<br>
+Ulysse Baldassare, Basson<br>
+Gilles Rapin, Olivier Mourot, Ferdinand Claquin, trompettes<br>
+Sophia Martin, timbales<br>
+</p>
+<p class="musiciens">
+Elisabeth Geiger, clavecin<br>
+Eliott Bembekoff, orgue<br>
+</p>
+<p class="musiciens">
+Graham O’Reilly**, direction<br>
+</p>
+<p class="musiciens">
+* soliste<br>
+** coordination
 </p>
 <p class="musiciens"><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
 <p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison28/2026_10.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
@@ -43,7 +69,24 @@ Coordination: Graham O’Reilly
   Liebster Gott, wenn werd ich sterben?
 </p>
 <p class="musiciens">
-Coordination: Frédéric Rivoal
+Lou Benzoni Grosset*, Danae Monnié, Hanna Aïlane, sopranos<br>
+Catherine Joussellin, Camille de Montullé, Karine Séraphin, altos<br>
+Vincent Bouchot*, Stanislas Herbin, Xavier Stouff, ténors<br>
+Philippe Roche*, Jean-François Gay, Paul Willenbrock, basses<br>
+</p>
+<p class="musiciens">
+Thimotée Oudinot, Mariko Ninomiya, hautbois d’amour<br>
+Amélie Michel, flûte<br>
+Paulo Castrillo, Juhyun Lee, Christophe Mourault,<br>
+&nbsp;&nbsp;Sepideh Nikoukar, Yannis Roger, Xavier Sichel, violons<br>
+Cibeles Bullon, Sayaka Shinoda, altos<br>
+Alix Verzier, violoncelle<br>
+</p>
+<p class="musiciens">
+Frédéric Rivoal, orgue et coordination<br>
+</p>
+<p class="musiciens">
+* soliste<br>
 </p>
 <p class="musiciens"><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
 <p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison28/2026_11.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>

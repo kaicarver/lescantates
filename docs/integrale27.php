@@ -53,7 +53,8 @@ MM_reloadPage(true);
  Graham O’Reilly, direction
 </p>
 <p class="musiciens">
-  * soliste</p>
+* soliste
+</p>
 <p class="musiciens"><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
 <p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison27/2025_10.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a> </p>
 <hr noshade>
@@ -291,7 +292,27 @@ Elisabeth Joyé**, orgue<br>
   Brich dem Hungrigen dein Brot
 </p>
 <p class="musiciens">
-Coordination: Marine Fribourg
+Anne-Kathryn Olsen*, Cécile Pierrot, Hanna Aïlane, sopranos<br>
+Marine Fribourg* **, Léa Colmet Daage, Catherine Jousselin, altos<br>
+Damien Jacobée, Jean-Baptiste Vrillon, Charles Lemarignier, ténors<br>
+Dominic Veilleux*, David Turcotte, Jérôme Collet, basses<br>
+</p>
+<p class="musiciens">
+Julian Rincon, Thalie Amossé, flûtes à bec<br>
+Nathalie Petibon*, David Charnley, hautbois<br>
+Fiona-Emilie Poupard*, Armance Decaëns, Clara Sidhoum,<br>
+Tatsuya Hatano, Camille Rancière, violons<br>
+Pamela Bernfeld, alto<br>
+Nicolas Verhoeven, violoncelle<br>
+Ilyès Bouyenzar, clavecin<br>
+Kamran Mercier, orgue<br>
+</p>
+<p class="musiciens">
+Louis Geoffroy, Magali Ramel, souffleurs
+</p>
+<p class="musiciens">
+* soliste<br>
+** coordination artistique
 </p>
 <p class="musiciens"><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
 <p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison27/2026_06.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
