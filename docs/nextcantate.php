@@ -17,11 +17,9 @@
       </p>
       <div>
 	J. S. Bach:
-	<a href="https://fr.wikipedia.org/wiki/Liebster_Gott,_wenn_werd_ich_sterben%3F">
 	Cantate BWV 8 « Liebster Gott, wenn werd ich sterben? »
-	</a>
       </div>
-      <div>&nbsp;</div>
+      <div>Programme du concert : <a href="../Presentations/saison28/2026_11.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></div>
       <div>
         Coordination : Frédéric Rivoal
       </div>

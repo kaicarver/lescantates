@@ -46,7 +46,7 @@ Coordination: Graham O’Reilly
 Coordination: Frédéric Rivoal
 </p>
 <p class="musiciens"><span class="pieceorgue"><a href="#HautPage"><img src="./Images/fleche_haut.gif" alt="Retour haut de page"  border="0" class="flechehaut" /></a></span>
-<p><span class="mois">Programme du concert :</span> <!--<a href="../Presentations/saison27/2026_06.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a>--></p>
+<p><span class="mois">Programme du concert :</span> <a href="../Presentations/saison28/2026_11.pdf" target="_blank"><img src="../Images/Acrobat30px.gif" width="30" height="30" border="0"></a></p>
 <hr noshade="noshade" />
 
 </div>
